@@ -96,7 +96,7 @@ freelance-dashboard/
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo](https://your-netlify-url.netlify.app)**
+🔗 **[View Live Demo](https://freelancedashboard.netlify.app/)**
 
 ## 📝 Usage
 
