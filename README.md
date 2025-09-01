@@ -1,11 +1,11 @@
 # Freelance Dashboard
 
-A modern and responsive freelance dashboard built with React and Vite, featuring a clean Bootstrap-based design for managing freelance projects and tasks.
+A modern and responsive freelance dashboard built with React and Vite, featuring a clean Tailwind-based design for managing freelance projects and tasks.
 
 ## 🚀 Features
 
 - **Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- **Modern UI** - Clean and professional interface using Bootstrap
+- **Modern UI** - Clean and professional interface using Tailwind
 - **Fast Performance** - Built with Vite for lightning-fast development and builds
 - **Easy Customization** - Modular component structure for easy modifications
 
