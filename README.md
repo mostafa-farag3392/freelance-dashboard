@@ -74,16 +74,34 @@ The built files will be in the `dist/` directory.
 ```
 freelance-dashboard/
 ├── public/
-│   ├── index.html
-│   └── assets/
+│   └── index.html
 ├── src/
 │   ├── components/
+│   │   ├── Layout/
+│   │   │   ├── Header.jsx
+│   │   │   ├── Sidebar.jsx
+│   │   │   └── Layout.jsx
+│   │   ├── UI/
+│   │   │   └── StatsCard.jsx
+│   │   └── Charts/
+│   │       ├── MonthlyEarningsChart.jsx
+│   │       └── TaskDistributionChart.jsx
 │   ├── pages/
-│   ├── styles/
+│   │   ├── Overview.jsx
+│   │   ├── Projects.jsx
+│   │   └── ProfileSettings.jsx
+│   ├── context/
+│   │   └── AppContext.jsx
+│   ├── data/
+│   │   └── mockData.js
 │   ├── App.jsx
+│   ├── App.css
 │   └── main.jsx
 ├── package.json
 ├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+└── index.html
 └── README.md
 ```
 
